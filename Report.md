@@ -7,6 +7,7 @@ Rohan Kumar (roku@bu.edu) and Linden Adamson (lindena@bu.edu)
 ### Exercise 1
 
 1. *What are the "max_bright" and "min_bright" values you found?*
+   max: 50000, min: 3000
 
 ### Exercise 2
 
