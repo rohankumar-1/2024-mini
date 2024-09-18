@@ -17,8 +17,8 @@ on_ms = 500
 FIREBASE_URI = '''https://miniproject-7f29e-default-rtdb.firebaseio.com/{name}.json'''
 
 # WIFI CONNECTION
-SSID = "snowleopard-rk-2.4GHz"
-PASSWORD = "ALwar9132$"
+SSID = None # commented out for security
+PASSWORD = None # commented out for security
 
 
 def random_time_interval(tmin: float, tmax: float) -> float:
